@@ -1,14 +1,14 @@
-# TickWise Lite - Privacy Policy
+# TickWise - Privacy Policy
 
 **Effective Date:** April 4, 2025
 
-TickWise Lite does not collect, store, or share any personal user data.
+TickWise does not collect, store, or share any personal user data.
 
 ## Data Collection
 This app does not collect or store any personal data or analytics.
 
 ## Third-Party Services
-TickWise Lite does not use third-party libraries or services that collect user data.
+TickWise does not use third-party libraries or services that collect user data.
 
 ## Children’s Privacy
 This app is not directed to children under the age of 13.
