@@ -15,7 +15,7 @@ This app is not directed to children under the age of 13.
 
 ## Contact
 If you have any questions or concerns, please contact us at:
-**shahidwork18@gmail.com**
+**support@shahidrcinnovations.com**
 
 ---
 This privacy policy may be updated occasionally. Any updates will be posted here.
